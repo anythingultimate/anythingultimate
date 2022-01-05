@@ -32,6 +32,15 @@ I am a technical professional with a passion for web development. I am a passion
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=adobe-xd&logoColor=white&color=FF61F6)
 ![](https://img.shields.io/badge/Nextjs-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 
+### 🤵 Trophy Status
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anythingultimate&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=anythingultimate&count_private=true&show_icons=true&theme=radical" style="margin-right:15px;" alt="Mohammad Rajaul" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anythingultimate&count_private=true&show_icons=true&theme=radical&layout=compact" alt="Mohammad Rajaul" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anythingultimate&count_private=true&show_icons=true&theme=radical" alt="Mohammad Rajaul" /></p>
 
 # &#x1F4BB; Services
 
